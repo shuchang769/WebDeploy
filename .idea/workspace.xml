@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc298a15-cf1b-410a-ab6e-844131f9eae7" name="Default Changelist" comment="Default">
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery-3.3.1.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -107,7 +128,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2340" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -204,10 +225,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,7 +241,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.32917467" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" visible="true" weight="0.32917467" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" visible="true" weight="0.32917467" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32917467" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -251,14 +271,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="3457" column="29" lean-forward="true" selection-start-line="3457" selection-start-column="29" selection-end-line="3457" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/js/bootstrap.bundle.js">
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="5965" column="17" selection-start-line="5965" selection-start-column="17" selection-end-line="5965" selection-end-column="17" />
@@ -289,7 +309,7 @@
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
